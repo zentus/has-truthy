@@ -19,7 +19,7 @@ hasTruthy([undefined, false])
 //=> false
 
 hasTruthy({})
-//=> Error: has-truthy expected an array, got "[object Object]". typeof: object
+//=> Error: has-truthy expected an array, got "[object Object]". Type: object
 ```
 
 ### License
